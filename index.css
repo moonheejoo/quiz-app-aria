@@ -1,0 +1,85 @@
+body {
+  background-color: #0A528A;
+  color: white;
+  font-family: 'Roboto', sans-serif;
+}
+
+header {
+  font-size: 40px;
+  text-align: center;
+  padding: 20px;
+}
+
+.boxed {
+  border: 3px solid white;
+  border-radius: 5px;
+  padding: 30px;
+  text-align: center;
+  margin-top: auto;
+  margin-right: 14px;
+  margin-left: 14px;
+  height: 470px;
+  width 150px;
+}
+
+p {
+  margin: 50px;
+}
+
+#takeQuiz {
+  background-color: #0573c0;
+  color: white;
+  font-size:;
+}
+
+fieldset {
+  border: none;
+}
+
+button {
+  display: inline-block;
+  margin: 0 10px 0 0;
+  padding: 8px 10px;
+  font-size: 14px;
+  font-family: "Roboto",serif;
+  line-height: 1.2;
+  box-shadow: none;
+  border-radius: 0;
+  margin-bottom: 5px;
+}
+
+
+
+#submit {
+  margin-top: 40px;
+  margin-bottom: 30px;
+}
+
+h4 {
+  border: 2px solid white;
+  padding: 3px;
+}
+
+#container1 {
+  font-size: 30px;
+  position: absolute;
+  top: 220px;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  margin: auto;
+}
+
+.question {
+  margin-top: 40px;
+}
+
+#container3 {
+  font-size: 40px;
+  position: absolute;
+  top: 340px;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  margin: auto;
+}
